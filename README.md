@@ -6,6 +6,10 @@ Projeto front-end desenvolvido com foco em uma experiência visual simples, mode
 
 [Clique aqui para visualizar o projeto online](https://remanyw0.github.io/suporteapple.com.br/)
 
+## 🖼️ Prévia do projeto
+
+![Prévia do Suporte Apple BR](./assets/preview.png)
+
 ## 📌 Visão geral
 
 O objetivo deste projeto foi criar um site claro e agradável, capaz de apresentar os serviços oferecidos e conduzir o usuário até a etapa de agendamento de forma direta.
