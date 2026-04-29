@@ -1,0 +1,76 @@
+.pagina-sucesso {
+  min-height: 100vh;
+  background-color: #050505;
+}
+
+.secao-sucesso {
+  padding: 120px 0 80px;
+}
+
+.caixa-sucesso {
+  max-width: 430px;
+  margin: 0 auto;
+  padding: 40px 30px;
+  border-radius: 28px;
+  text-align: center;
+  background-color: #0a0a0a;
+  border: 1px solid #222222;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+.icone-sucesso {
+  width: 70px;
+  height: 70px;
+  margin: 0 auto 24px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #111111;
+  border: 1px solid #333333;
+}
+
+.icone-sucesso .material-icons {
+  font-size: 28px;
+  color: #ffffff;
+}
+
+.titulo-sucesso {
+  font-size: 2.4rem;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 16px;
+}
+
+.texto-sucesso {
+  font-size: 1rem;
+  color: #aaaaaa;
+  margin-bottom: 30px;
+}
+
+.botao-voltar {
+  display: inline-block;
+  padding: 15px 30px;
+  border-radius: 50px;
+  background-color: #ffffff;
+  color: #000000;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.botao-voltar:hover {
+  background-color: #dddddd;
+}
+
+.link-detalhes {
+  margin-top: 20px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.9rem;
+  color: #888888;
+}
+
+.link-detalhes:hover {
+  color: #ffffff;
+}
