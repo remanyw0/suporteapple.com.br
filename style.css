@@ -380,8 +380,10 @@ button {
   }
 
   .titulo-inicio {
-    font-size: 37px;
-    line-height: 1.1;
+    max-width: 340px;
+    font-size: 34px;
+    line-height: 1.18;
+    letter-spacing: -1.5px;
   }
 
   .descricao-inicio {
